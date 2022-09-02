@@ -1,2 +1,2 @@
 # logica-portugol
-O meu primeiro exercício no Portugol
+O meu segundo exercício no Portugol
